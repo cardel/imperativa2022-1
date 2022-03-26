@@ -20,7 +20,7 @@ print(mayor(2,3))
 print(mayor(2,1))
 print(funcion_sin_retorno(1,2,3))
 f = funcion_sin_retorno(4,5,2)
-print(2*f)
+print(f)
 """
 a= int(input("Ingrese el cateto a"))
 b = int(input("Ingrese el cateto b"))
