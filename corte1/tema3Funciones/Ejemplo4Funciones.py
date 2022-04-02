@@ -1,4 +1,8 @@
-
+"""
+Autor: Carlos A Delgado
+Fecha: 01 de Abril de 2022
+Descripción: Ejercicio de las notas
+"""
 nota_talleres = float(input("Ingrese la nota de talleres\n"))
 nota_parcial = float(input("Ingrese la nota de parcial\n"))
 nota_opcional = float(input("Ingrese la nota del opcional\n"))
