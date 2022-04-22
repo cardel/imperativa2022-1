@@ -49,7 +49,7 @@ def comprar_while(n):
         mensaje()
         codigo = int(input(f"Ingrese el código del producto {i+1} "))
         precio = float(input(f"Ingrese el precio del producto {i+1} "))
-        cantidad = int(input(f"Ingrese el cantidad del producto {i+1} "))
+        cantidad = int(input(f"Ingrese el cantidad del producto {i+ 1} "))
 
         precio_con_iva = calcular_precio_iva(codigo,precio*cantidad)
 
