@@ -14,3 +14,5 @@ def imprimir_pares_iterador(arr):
 imprimir_pares_indice(arreglo)
 print()
 imprimir_pares_iterador(arreglo)
+
+
